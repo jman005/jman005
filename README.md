@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, welcome to my profile!
+
+I'm a software developer most proficent in **C++ and Python** building projects which are practical, useful to society or that I just find cool. Some of those projects have included:
+
+- **ArchiveIt**, a Reddit bot made to preserve posts into an offline format
+- **VaxBot**, a tool made for Vaccine Hunters Canada to locate COVID-19 vaccination appointments through a Discord interface
+
+Have a look at my pinned repositories for more information!
 
 <!--
 **jman005/jman005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
