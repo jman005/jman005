@@ -1,11 +1,12 @@
-### Hi, welcome to my profile!
+### 💻 Hi, welcome to my profile!
 
 I'm a software developer most proficent in **C++ and Python** building projects which are practical, useful to society or that I just find cool. Some of those projects have included:
 
-- **ArchiveIt**, a Reddit bot made to preserve posts into an offline format
-- **VaxBot**, a tool made for Vaccine Hunters Canada to locate COVID-19 vaccination appointments through a Discord interface
+- [**VaxBot**](https://github.com/Vaccine-Hunters-Canada/VaxFinder-Discord), a tool made for Vaccine Hunters Canada to locate COVID-19 vaccination appointments through a Discord interface
+- [**Lightype**](https://github.com/jman005/lighttype), a lightweight PyQt5 typing-test program 
+- [**ArchiveIt**](https://github.com/jman005/ArchiveIt), a Reddit bot made to preserve posts into an offline format
 
-Have a look at my pinned repositories for more information!
+Click on the hyperlinks of each project to check them out.
 
 <!--
 **jman005/jman005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
